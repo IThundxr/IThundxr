@@ -6,14 +6,17 @@
 <h3>👋 Get to know me!</h3>
 <p>I am Thunder (or <strong>"IThundxr"</strong>). I like to make Discord bots and I also like to make Minecraft mods!</p>
 
-<h2>📚 Skills</h2>
 <div align="center">
+  <h2>📚 Skills</h2>
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/java/java.png">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/javascript/javascript.png">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.png">
 </div>
 
-## 📊 Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IThundxr&show_icons=true&theme=tokyonight)
+<div align="center">
+  <h2>📊 Statistics</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=IThundxr&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IThundxr&show_icons=true&theme=tokyonight)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=IThundxr&theme=tokyonight)
+</div>
