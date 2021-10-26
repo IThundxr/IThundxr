@@ -19,4 +19,8 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IThundxr&show_icons=true&theme=tokyonight)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=IThundxr&theme=tokyonight)
+  
+  ![Github](https://github.com/IThundxr/github-stats/blob/master/generated/overview.svg)
+  
+  ![Githu 2](https://github.com/IThundxr/github-stats/blob/master/generated/languages.svg)
 </div>
