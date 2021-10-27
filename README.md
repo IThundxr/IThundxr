@@ -19,4 +19,6 @@
   ![Github Stats](https://github.com/IThundxr/github-stats/blob/master/generated/overview.svg)
   
   ![Top Langs](https://github.com/IThundxr/github-stats/blob/master/generated/languages.svg)
+  
+  [![Thundxr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IThundxr)
 </div>
