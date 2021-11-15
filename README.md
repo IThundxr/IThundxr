@@ -15,6 +15,7 @@
 
 <div align="center">
   <h2>📊 Statistics</h2>
+  
   ![Views](https://komarev.com/ghpvc/?username=IThundxr&style=flat-square&color=ff69b4)
 
   ![Github Stats](https://github.com/IThundxr/github-stats/blob/master/generated/overview.svg)
