@@ -28,4 +28,4 @@
 - [Email](mailto:ithundxr@hycord.me) or ithundxr@hycord.me
 - [Twitter](https://twitter.com/IThundxr_) @ IThundxr_
 - [Website](https://hycord.me) @ hycord.me
- </div>
+</div>
