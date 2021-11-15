@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/avatars/694604709591384226/8a79faece8c9c7a9a82b078c7da86982.webp?size=128">
-  <h1>Hey, it's Thunder! 🤘</h1>
+  <h1>Hey, it's Thundxr!</h1>
 </div>
 
 <h3>👋 Get to know me!</h3>
@@ -15,10 +15,11 @@
 
 <div align="center">
   <h2>📊 Statistics</h2>
+  ![Views](https://komarev.com/ghpvc/?username=IThundxr&style=flat-square&color=ff69b4)
 
   ![Github Stats](https://github.com/IThundxr/github-stats/blob/master/generated/overview.svg)
   
   ![Top Langs](https://github.com/IThundxr/github-stats/blob/master/generated/languages.svg)
   
-  ![Thundxr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IThundxr)
+  ![Thundxr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ithundxr)
 </div>
