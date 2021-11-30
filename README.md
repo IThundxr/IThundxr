@@ -26,7 +26,7 @@
 <div align="center">
   <h2>✉️ How to reach me</h2>
   
-[Discord](https://discord.com/users/694604709591384226) or IThundxr#2619  
+[Discord](https://discord.com/users/694604709591384226) or IThundxr💙#2619  
 [Email](mailto:ithundxr@hycord.me) or ithundxr@hycord.me  
 [Twitter](https://twitter.com/IThundxr_) @ IThundxr_  
 [Website](https://hycord.me) @ hycord.me
