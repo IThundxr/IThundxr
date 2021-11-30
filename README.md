@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/avatars/694604709591384226/2308d4832b72dd45d4222fe9b14ef318.webp?size=128">
+  <img src="https://cdn.discordapp.com/avatars/694604709591384226/8a79faece8c9c7a9a82b078c7da86982.webp?size=128">
   <h1>Hey, it's Thundxr!</h1>
 </div>
 
@@ -26,7 +26,7 @@
 <div align="center">
   <h2>✉️ How to reach me</h2>
   
-[Discord](https://discord.com/users/694604709591384226) or IThundxr💙#2619  
+[Discord](https://discord.com/users/694604709591384226) or IThundx#2619  
 [Email](mailto:ithundxr@hycord.me) or ithundxr@hycord.me  
 [Twitter](https://twitter.com/IThundxr_) @ IThundxr_  
 [Website](https://hycord.me) @ hycord.me
