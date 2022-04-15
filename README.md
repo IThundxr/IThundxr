@@ -10,6 +10,7 @@
   <h2>📚 Skills</h2>
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/java/java.png">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/javascript/javascript.png">
+  <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/python/python.png">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.png">
 </div>
 
