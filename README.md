@@ -16,6 +16,8 @@
 <div align="center">
   <h2>📊 Statistics</h2>
   
+  ![Alt](https://discord.c99.nl/widget/theme-4/694604709591384226.png)
+  
   ![Views](https://komarev.com/ghpvc/?username=IThundxr&style=flat-square&color=ff69b4)
 
   ![Github Stats](https://github.com/IThundxr/github-stats/blob/master/generated/overview.svg)
