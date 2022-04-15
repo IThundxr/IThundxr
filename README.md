@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/avatars/694604709591384226/8a79faece8c9c7a9a82b078c7da86982.webp?size=128">
+  <img src="https://cdn.discordapp.com/avatars/694604709591384226/d94c51f665717381895adfd43abdcf8b.png?size=128">
   <h1>Hey, it's Thundxr!</h1>
 </div>
 
@@ -16,13 +16,11 @@
 <div align="center">
   <h2>📊 Statistics</h2>
   
-  ![Alt](https://discord.c99.nl/widget/theme-4/694604709591384226.png)
-  
-  ![Views](https://komarev.com/ghpvc/?username=IThundxr&style=flat-square&color=ff69b4)
+  [![Repos Badge](https://badges.pufler.dev/repos/IThundxr)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/IThundxr)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/IThundxr)](https://badges.pufler.dev)
 
-  ![Github Stats](https://github.com/IThundxr/github-stats/blob/master/generated/overview.svg)
+  ![Metrics](https://github.com/IThundxr/IThundxr/blob/master/github-metrics.svg)
   
-  ![Top Langs](https://github.com/IThundxr/github-stats/blob/master/generated/languages.svg)
+  ![Alt](https://discord.c99.nl/widget/theme-4/694604709591384226.png)
 </div>
 
 <div align="center">
