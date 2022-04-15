@@ -19,9 +19,9 @@
   
   [![Repos Badge](https://badges.pufler.dev/repos/IThundxr)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/IThundxr)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/IThundxr)](https://badges.pufler.dev)
 
-  ![Metrics](https://github.com/IThundxr/IThundxr/blob/main/github-metrics.svg)
-  
   ![Alt](https://discord.c99.nl/widget/theme-4/694604709591384226.png)
+  
+  ![Metrics](https://github.com/IThundxr/IThundxr/blob/main/github-metrics.svg)
 </div>
 
 <div align="center">
