@@ -25,13 +25,13 @@
 </div>
 
 <div align="center">
-   </h2>📊 Weekly development breakdown</h2>
+   </h3>📊 Weekly development breakdown</h3>
    <!--START_SECTION:waka-->
    <!--END_SECTION:waka-->
 </div>
 
 <div align="center">
-  <h3>✉️ How to reach me</h3>
+  <h4>✉️ How to reach me</h4>
   
 [Discord](https://discord.com/users/694604709591384226) or IThundxr#2619  
 [Email](mailto:ithundxr@hycord.me) or ithundxr@hycord.me  
