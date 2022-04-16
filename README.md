@@ -25,9 +25,11 @@
 </div>
 
 <div align="center">
-   <h3>📊 Weekly development breakdown</h3>
-   <!--START_SECTION:waka-->
-   <!--END_SECTION:waka-->
+  <h3>📊 Weekly development breakdown</h3>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  
 </div>
 
 <div align="center">
