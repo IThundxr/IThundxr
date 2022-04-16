@@ -22,7 +22,12 @@
   ![Alt](https://discord.c99.nl/widget/theme-4/694604709591384226.png)
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+Other        18 mins         ████████████▓░░░░░░░░░░░░   50.86 %
+```
+
+<!--END_SECTION:waka-->
   
   ![Metrics](https://github.com/IThundxr/IThundxr/blob/main/github-metrics.svg)
 </div>
