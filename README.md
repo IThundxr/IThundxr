@@ -22,10 +22,6 @@
   ![Alt](https://discord.c99.nl/widget/theme-4/694604709591384226.png)
   
   ![Metrics](https://github.com/IThundxr/IThundxr/blob/main/github-metrics.svg)
-</div>
-
-<div align="center">
-  <h3>📊 Weekly development breakdown</h3>
   
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
@@ -33,7 +29,7 @@
 </div>
 
 <div align="center">
-  <h4>✉️ How to reach me</h4>
+  <h3>✉️ How to reach me</h3>
   
 [Discord](https://discord.com/users/694604709591384226) or IThundxr#2619  
 [Email](mailto:ithundxr@hycord.me) or ithundxr@hycord.me  
