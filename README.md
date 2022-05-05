@@ -26,8 +26,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-Batchfile   5 mins          ██████████████████████░░░   87.38 %
-HTML        0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+Batchfile   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
