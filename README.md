@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/avatars/694604709591384226/d94c51f665717381895adfd43abdcf8b.png?size=128">
+  <img src="https://cdn.discordapp.com/avatars/694604709591384226/254d81d1ff86dedfdbc86ab0442987e1.png?size=128">
   <h1>Hey, it's Thundxr!</h1>
 </div>
 
