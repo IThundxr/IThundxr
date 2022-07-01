@@ -4,7 +4,7 @@
 </div>
 
 <h3>👋 Get to know me!</h3>
-<p>I am Thundxr (or <strong>"IThundxr"</strong>). I like to make Discord bots and I also like to make Minecraft mods!</p>
+<p>I am Thundxr (or <strong>"IThundxr"</strong>). I like to make Discord bots, and I also like to make Minecraft mods!</p>
 
 <div align="center">
   <h2>📚 Skills</h2>
