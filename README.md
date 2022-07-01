@@ -23,7 +23,7 @@
   
   ![Metrics](https://github.com/IThundxr/IThundxr/blob/main/github-metrics.svg)
   
-  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=IThundxr&theme=gruvbox" alt=" IThunsxr's Contribution Graph.">
+  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=IThundxr&theme=rogue" alt=" IThunsxr's Contribution Graph.">
   
   <!--START_SECTION:waka-->
 
