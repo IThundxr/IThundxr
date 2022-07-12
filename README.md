@@ -22,7 +22,7 @@
 
   ![Alt](https://discord.c99.nl/widget/theme-4/694604709591384226.png)
   
-  ![Metrics](https://github.com/IThundxr/IThundxr/blob/main/github-metrics.svg)
+  ![Metrics](https://raw.githubusercontent.com/IThundxr/IThundxr/master/github-metrics.svg)
   
   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=IThundxr&theme=rogue" alt=" IThunsxr's Contribution Graph.">
 
