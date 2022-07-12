@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/IThundxr/IThundxr/blob/main/pfp.png">
+  <img src="https://ithundxr.dev/assets/Pfp_small.png">
   <h1>Hey, it's Thundxr!</h1>
 </div>
 
@@ -25,7 +25,8 @@
   ![Metrics](https://github.com/IThundxr/IThundxr/blob/main/github-metrics.svg)
   
   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=IThundxr&theme=rogue" alt=" IThunsxr's Contribution Graph.">
-  
+
+  📊 **Weekly development breakdown**
   <!--START_SECTION:waka-->
 
 ```text
