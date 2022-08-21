@@ -30,8 +30,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-CLASS            0 secs          ████████████████████████░   96.17 %
-GitIgnore file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
