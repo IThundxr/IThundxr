@@ -30,7 +30,12 @@
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript            11 hrs 6 mins   ███████████▒░░░░░░░░░░░░░   45.85 %
+JSON                  6 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
+Java                  4 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+Groovy                45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Gradle                33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+TOML                  26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
