@@ -18,7 +18,7 @@
 <div align="center">
   <h2>📊 Statistics</h2>
   
-  [![Repos Badge](https://badges.pufler.dev/repos/IThundxr)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/IThundxr)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/IThundxr)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.strrl.dev/repos/IThundxr)](https://badges.strrl.dev) [![Commits Badge](https://badges.strrl.dev/commits/all/IThundxr)](https://badges.strrl.dev) [![Contributions Badge](https://badges.strrl.dev/contributions/all/IThundxr)](https://badges.strrl.dev) [![Years Badge](https://badges.strrl.dev/years/IThundxr)](https://badges.strrl.dev)
 
   ![Alt](https://discord.c99.nl/widget/theme-4/694604709591384226.png)
   
