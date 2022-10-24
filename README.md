@@ -44,7 +44,7 @@ Other                 21 mins         █▓░░░░░░░░░░░░
   <h3>✉️ How to reach me</h3>
   
 [Discord](https://discord.com/users/694604709591384226) or IThundxr#2619  
-[Email](mailto:me@ithundxr.dev) or me@ithundxr.dev  
+[Email](mailto:contact@ithundxr.dev) or contact@ithundxr.dev  
 [Twitter](https://twitter.com/IThundxr_) @ IThundxr_  
 [Website](https://ithundxr.dev) @ ithundxr.dev
 
