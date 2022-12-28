@@ -30,7 +30,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java         6 mins          ████████████▓░░░░░░░░░░░░   50.34 %
+Astro        6 mins          ████████████░░░░░░░░░░░░░   47.50 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
