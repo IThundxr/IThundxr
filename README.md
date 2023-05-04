@@ -10,8 +10,8 @@
   <h2>📚 Skills</h2>
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/java/java.png">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/javascript/javascript.png">
+  <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/typescript/typescript.png">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/node/node.png">
-  <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/python/python.png">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.png">
 </div>
 
@@ -30,12 +30,12 @@
   <!--START_SECTION:waka-->
 
 ```text
-Markdown         0 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.08 %
-unknown          0 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-Bash             0 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-YAML             0 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-Astro            0 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-SuperCollider    0 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+YAML             0 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
+Markdown         0 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+unknown          0 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Bash             0 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+Astro            0 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+SuperCollider    0 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 ```
 
 <!--END_SECTION:waka-->
