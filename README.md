@@ -30,11 +30,11 @@
   <!--START_SECTION:waka-->
 
 ```text
-Markdown         0 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
-YAML             0 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
-Bash             0 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-SuperCollider    0 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-unknown          0 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+Markdown         0 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+TypeScript       0 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+YAML             0 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+unknown          0 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+Bash             0 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
 ```
 
 <!--END_SECTION:waka-->
