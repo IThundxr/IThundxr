@@ -30,11 +30,11 @@
   <!--START_SECTION:waka-->
 
 ```text
-Java             4 hrs 24 mins   ██████████▒░░░░░░░░░░░░░░   40.70 %
-JavaScript       2 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   27.48 %
-TypeScript       0 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-JSON             0 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-Astro            0 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Java             4 hrs 24 mins   ███████████░░░░░░░░░░░░░░   43.39 %
+JavaScript       2 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.95 %
+JSON             0 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Gradle           0 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+TypeScript       0 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
