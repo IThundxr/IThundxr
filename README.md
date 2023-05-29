@@ -24,7 +24,7 @@
   
   ![Metrics](https://raw.githubusercontent.com/IThundxr/IThundxr/master/github-metrics.svg)
   
-  <img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=IThundxr&theme=rogue" alt=" IThundxr's Contribution Graph.">
+  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=IThundxr&theme=rogue" alt=" IThundxr's Contribution Graph.">
 
   📊 **Weekly development breakdown**
   <!--START_SECTION:waka-->
