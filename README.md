@@ -3,8 +3,10 @@
   <h1>Hey, it's Thundxr!</h1>
 </div>
 
-<h3>👋 Get to know me!</h3>
-<p>I am Thundxr (or <strong>"IThundxr"</strong>). I like to make Discord bots, and I also like to make Minecraft mods!</p>
+<div align="center">
+  <h3>👋 Get to know me!</h3>
+  <p>I am Thundxr (or <strong>"IThundxr"</strong>). I like to make Discord bots, and I also like to make Minecraft mods!</p>
+</div>
 
 <div align="center">
   <h2>📚 Skills</h2>
