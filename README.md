@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ithundxr.dev/ithundxr.jpg" width="256" height="256">
+  <img src="https://ithundxr.dev/favicon.ico" width="256" height="256">
   <h1>Hey, it's Thundxr!</h1>
 </div>
 
