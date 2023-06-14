@@ -32,11 +32,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-JavaScript            1 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Groovy                1 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Astro                 0 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Gradle                0 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Svelte                0 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Svelte                1 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+Groovy                1 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+JavaScript            1 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Gradle                1 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+Java                  1 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
 ```
 
 <!--END_SECTION:waka-->
