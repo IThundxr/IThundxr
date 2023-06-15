@@ -22,8 +22,6 @@
   
   [![Repos Badge](https://badges.strrl.dev/repos/IThundxr)](https://badges.strrl.dev) [![Commits Badge](https://badges.strrl.dev/commits/all/IThundxr)](https://badges.strrl.dev) [![Contributions Badge](https://badges.strrl.dev/contributions/all/IThundxr)](https://badges.strrl.dev) [![Years Badge](https://badges.strrl.dev/years/IThundxr)](https://badges.strrl.dev)
 
-  ![Alt](https://discord.c99.nl/widget/theme-4/694604709591384226.png)
-  
   ![Metrics](https://raw.githubusercontent.com/IThundxr/IThundxr/master/github-metrics.svg)
   
   <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=IThundxr&theme=rogue" alt=" IThundxr's Contribution Graph.">
