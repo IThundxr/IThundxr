@@ -32,11 +32,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Svelte                1 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-Groovy                1 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-JavaScript            1 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-Gradle                1 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-Java                  1 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Java                  2 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
+Svelte                2 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Groovy                1 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+Gradle                1 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+JavaScript            1 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
 ```
 
 <!--END_SECTION:waka-->
