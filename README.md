@@ -1,20 +1,12 @@
 <div align="center">
-  <img src="https://ithundxr.dev/ithundxr.jpg" width="256" height="256">
-  <h1>Hey, it's Thundxr!</h1>
+  <img src="https://ithundxr.dev/ithundxr.jpg" width="192" height="192">
+  <h1>IThundxr</h1>
 </div>
 
 <div align="center">
-  <h3>👋 Get to know me!</h3>
-  <p>I am Thundxr (or <strong>"IThundxr"</strong>). I like to make Discord bots, and I also like to make Minecraft mods!</p>
-</div>
-
-<div align="center">
-  <h2>📚 Skills</h2>
-  <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/java/java.png">
-  <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/javascript/javascript.png">
-  <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/typescript/typescript.png">
-  <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/node/node.png">
-  <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.png">
+  You can find my website here
+</br>
+  https://ithundxr.dev
 </div>
 
 <div align="center">
