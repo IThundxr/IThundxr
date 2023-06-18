@@ -30,11 +30,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Java                  3 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-Svelte                2 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-Groovy                1 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Gradle                1 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-JavaScript            1 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Java                  4 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+Svelte                2 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+Gradle                1 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+JavaScript            1 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Properties            1 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 ```
 
 <!--END_SECTION:waka-->
