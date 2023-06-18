@@ -25,27 +25,4 @@
   ![Metrics](https://raw.githubusercontent.com/IThundxr/IThundxr/master/github-metrics.svg)
   
   <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=IThundxr&theme=rogue" alt=" IThundxr's Contribution Graph.">
-
-  📊 **Weekly development breakdown**
-  <!--START_SECTION:waka-->
-
-```txt
-Java                  4 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Svelte                2 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
-Gradle                1 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-JavaScript            1 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Properties            1 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-```
-
-<!--END_SECTION:waka-->
-</div>
-
-<div align="center">
-  <h3>✉️ How to reach me</h3>
-  
-[Discord](https://discord.com/users/694604709591384226) or IThundxr#2619  
-[Email](mailto:contact@ithundxr.dev) or contact@ithundxr.dev  
-[Twitter](https://twitter.com/IThundxr_) @ IThundxr_  
-[Website](https://ithundxr.dev) @ ithundxr.dev
-
 </div>
