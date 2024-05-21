@@ -12,9 +12,9 @@
 <div align="center">
   <h2>📊 Statistics</h2>
   
-  [![Repos Badge](https://badges.strrl.dev/repos/IThundxr)](https://badges.strrl.dev) [![Commits Badge](https://badges.strrl.dev/commits/all/IThundxr)](https://badges.strrl.dev) [![Contributions Badge](https://badges.strrl.dev/contributions/all/IThundxr)](https://badges.strrl.dev) [![Years Badge](https://badges.strrl.dev/years/IThundxr)](https://badges.strrl.dev)
+  ![Repos Badge](https://badges.strrl.dev/repos/IThundxr) ![Commits Badge](https://badges.strrl.dev/commits/all/IThundxr) ![Contributions Badge](https://badges.strrl.dev/contributions/all/IThundxr) ![Years Badge](https://badges.strrl.dev/years/IThundxr)
 
-  ![Metrics](https://raw.githubusercontent.com/IThundxr/IThundxr/master/github-metrics.svg)
+  ![Metrics](./github-metrics.svg)
   
   <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=IThundxr&theme=rogue" alt=" IThundxr's Contribution Graph.">
 </div>
