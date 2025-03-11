@@ -15,6 +15,4 @@
   ![Repos Badge](https://badges.strrl.dev/repos/IThundxr) ![Commits Badge](https://badges.strrl.dev/commits/all/IThundxr) ![Contributions Badge](https://badges.strrl.dev/contributions/all/IThundxr) ![Years Badge](https://badges.strrl.dev/years/IThundxr)
 
   ![Metrics](./github-metrics.svg)
-  
-  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=IThundxr&theme=rogue" alt=" IThundxr's Contribution Graph.">
 </div>
