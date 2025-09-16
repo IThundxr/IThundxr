@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ithundxr_transparent.webp" width="192" height="192">
+  <img src="https://ithundxr.dev/ithundxr_transparent.webp" width="192" height="192">
   <h1>IThundxr</h1>
 </div>
 
